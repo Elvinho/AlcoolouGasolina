@@ -1,6 +1,6 @@
 # AlcoolouGasolina
 
-<a>app da cadeira de Desenvolvimento de aplicações moveis.</a>
+### app da cadeira de Desenvolvimento de aplicações moveis.
 
  - Objetivo:
  - Quando o usuário setar as informações de preços Gasolina ou Alcool
